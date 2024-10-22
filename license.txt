@@ -1,0 +1,8 @@
+Model Information:
+* title:	Cosmetic serum bottle
+* source:	https://sketchfab.com/3d-models/cosmetic-serum-bottle-6540be5601a544179f0f4848f5c9cb3b
+* author:	NeeravRajput (https://sketchfab.com/NeeravRajput)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
